@@ -21,7 +21,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Step 3: Upload test reports
 
-_The workflow has finished running! :sparkles:_
+_Great job adding the templated workflow! :tada:_:) :)
 
 So what do we do when we need the work product of one job in another? We can use the built-in [artifact storage](https://docs.github.com/actions/advanced-guides/storing-workflow-data-as-artifacts) to save artifacts created from one job to be used in another job within the same workflow.
 
